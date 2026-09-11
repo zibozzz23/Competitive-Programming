@@ -1,6 +1,5 @@
 # Competitive-Programming
 
-## Editor, Extension, Compiler and OS<br>
 ### Editor<br>
 - Visual Studio Code<br> 
 - programiz.com (C++)<br>
